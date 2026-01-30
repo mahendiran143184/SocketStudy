@@ -90,7 +90,8 @@ print (s.recv(1024).decode())
 s.close()
 ```
 ##output:
-<img width="1472" height="932" alt="Screenshot 2026-01-30 143222" src="https://github.com/user-attachments/assets/371923ad-aa46-4273-a8b6-7e70e448107d" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-30 144059" src="https://github.com/user-attachments/assets/16bc2760-619d-4676-a38e-754efd214af3" />
+
 
 
 <img width="1472" height="932" alt="Screenshot 2026-01-30 143222" src="https://github.com/user-attachments/assets/79928283-7900-4c06-94d5-ba7dc1c3dc26" />
